@@ -1,4 +1,4 @@
-# Ex--6-AWS-Account-setup-and-S3-creation-
+# Ex--3-AWS-Account-setup-and-S3-creation-
 NAME: ASHRATHI S
 
 REG NO: 212224230025
